@@ -1,3 +1,2 @@
 # Truffle
-# Install Truffle 
-npm i truffle
+Install Truffle => npm i truffle
